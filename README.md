@@ -3,6 +3,11 @@ History of recorded twitter spaces discussing whitepapers
 
 Dates in YYYY-MM-DD format listed reverse chronologically for when they happened
 
+### DynamoDB
+* Date: 2022-08-05
+* Recording: https://twitter.com/i/spaces/1YqGopDVvZEJv?s=20
+* Paper: https://www.usenix.org/conference/atc22/presentation/elhemali
+
 ### Container security
 * Date: 2022-05-03
 * Recording: https://twitter.com/i/spaces/1eaKbNvnwwVKX?s=20
